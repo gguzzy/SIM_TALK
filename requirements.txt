@@ -1,0 +1,5 @@
+torch
+torchaudio
+sounddevice
+langdetect
+transformers
