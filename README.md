@@ -11,8 +11,8 @@ The goal is to empower developers and researchers to build tools that break down
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/streaming-translation.git
-   cd streaming-translation
+   git clone https://github.com/gguzzy/SIM_TALK.git
+   cd SIM_TALK
    ```
 
 2. **Create a virtual environment & install dependencies**
